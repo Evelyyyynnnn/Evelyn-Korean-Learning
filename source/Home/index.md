@@ -5,9 +5,10 @@ date: 2023-09-02 10:15:38
 <div align=center>
 <img src="/picture/author.jpg" width = "500" height = "500"/>  
 
+
 **<font face="cursive" font size=5>Self-Introduction</font>**
 **<font face="KN6" font size=6>제가 좋아하는</font>**
-
+</div>
 
 🍿제가 가장 좋아하는 한국영화는 [도가니](https://ko.wikipedia.org/wiki/%EB%8F%84%EA%B0%80%EB%8B%88_(%EC%98%81%ED%99%94)) 입니다
 📕제가 가장 좋아하는 한국어 책은 [어차피 레이스는 길다](https://blog.naver.com/2745668/221339776880) 입니다.
@@ -19,7 +20,7 @@ date: 2023-09-02 10:15:38
 👩‍🎤My Favorite Korean Show is [Knowing Bros](https://www.youtube.com/@Knowingbros).
 🎤And My Favorite Korean Idol is [Taeyeon](https://www.youtube.com/@taeyeonofficial)
 ***
-</div>
+
 
 <br />
 

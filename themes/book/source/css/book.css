@@ -6,11 +6,11 @@
 html {
   margin: 0;
   height: 100%;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 body {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
 }
 
 a {
@@ -942,7 +942,7 @@ h1 {
 /* 左侧栏 */
 .book-sidebar {
   font-family: "KN6";
-  font-size: 20;
+  font-size: 25;
 }
 
 /* 正文 */

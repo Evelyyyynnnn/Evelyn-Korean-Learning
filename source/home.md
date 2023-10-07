@@ -9,11 +9,17 @@ date: 2023-09-02 10:15:38
 
 ## Preview 사전 검토 
 👋안녕하세요,여러분.   
-🌐이 사이트는 대학생으로서🎓 한국어를 공부한 기록입니다.  
+이 사이트는 대학생으로서🎓 한국어를 공부한 기록입니다.  
+
+🌊이 학과 홈페이지를 시작하게 된 초기 의도는 주변의 지식이 정말 흩어져 있다는 것을 느끼기 위해서였습니다. 전문적인 답변을 얻고 싶을 때마다 정보를 찾고, 정보의 정확성을 판단하고 필터링하며, 나아가 정보의 파도를 헤치며 탐색하는 데 많은 시간을 할애해야 했습니다. 저는 진정하고 체계적으로 자신의 지식 체계를 형성하지 못해 이 여정을 시작하게 되었습니다
+
 ⚠️본 사이트는 [업무용](#note)으로 사용하지 마십시오.
 
 👋Hello everyone.  
-🌐This site is created by me,one university student 🎓to record the Korean learning. 
+This site is created by me,one university student 🎓to record the Korean learning. 
+
+🌊The initial intention of starting this department website was to feel that the knowledge around me was really scattered. Every time I wanted to obtain a professional answer, I had to spend a lot of time searching for information, judging and filtering the correctness of the information, and further searching through the waves of information. I did not truly and systematically form my own knowledge system, so I started this journey
+
 ⚠️This site shouldn't be used for business purpose.
 
 
@@ -51,5 +57,4 @@ date: 2023-09-02 10:15:38
 [8]업데이트:the update  
 [9]돕겠습니다:help sb.  
 [10]업무용:business use
-
 
