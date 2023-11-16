@@ -13,7 +13,7 @@ date: 2023-09-08 23:48:59
 🧠Games and Challenges: Korean variety shows usually include various games and challenges, such as escape games, obstacle races, etc. These games and challenges are usually aimed at testing the intelligence, physical strength, and responsiveness of guests, while also providing some interesting moments for the audience.
 🧠게임과 도전: 한국의 예능 프로그램은 보통 탈출 게임, 장애물 경주와 같은 다양한 게임과 도전을 포함합니다.이러한 게임과 도전은 종종 게스트의 지능, 체력 및 반응 능력을 테스트하는 것을 목표로 하며 시청자에게 흥미로운 순간을 제공합니다.
 
-⭐️Celebrity guests: Korean variety shows usually invite some famous celebrities as guests. These celebrities usually participate in various activities and games, and showcase their talents and personalities.
+⭐️Celebrity guests: Korean variety shows usually invite some famous celebrities as guests. They usually participate in various activities and games, and showcase their talents and personalities.
 ⭐️스타게스트: 한국 예능 프로그램은 보통 유명한 스타들을 게스트로 섭외합니다.이 스타들은 보통 다양한 이벤트와 게임에 참여하며 그들의 재능과 개성을 뽐냅니다.
 
 🌟Unique Theme: Korean variety shows usually have unique themes, such as travel, food, music, etc. These themes aim to attract different types of audiences and provide some innovative content.
@@ -22,6 +22,6 @@ date: 2023-09-08 23:48:59
 Here I include the following 4 as my favorite:
 
 - [나 혼자 산다](https://www.mgtv123.com/dsplay/woduzishenghuo-1-39/):I Live Alone
-- [https://zh.wikipedia.org/wiki/%E7%84%A1%E9%99%90%E6%8C%91%E6%88%B0](https://zh.wikipedia.org/wiki/%E7%84%A1%E9%99%90%E6%8C%91%E6%88%B0):Infinite Challenge
+- [무한도전](https://zh.wikipedia.org/wiki/%E7%84%A1%E9%99%90%E6%8C%91%E6%88%B0):Infinite Challenge
 - [아는 형님](https://baike.baidu.com/item/%E8%AE%A4%E8%AF%86%E7%9A%84%E5%93%A5%E5%93%A5/18824674):Known Brothers
 - [데블스 플랜](https://baike.baidu.com/item/%E9%AD%94%E9%AC%BC%E7%9A%84%E8%AE%A1%E5%88%92/63495124):Devils' Plan

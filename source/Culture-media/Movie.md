@@ -3,7 +3,7 @@ title: 🎥Movie
 date: 2023-09-08 23:48:59
 ---
 <div align=center>
-<img src="https://s2.loli.net/2023/10/07/jGw1KVtQWxPa9kU.jpg" width = "400" height = "350"/>  
+<img src="https://s2.loli.net/2023/10/07/jGw1KVtQWxPa9kU.jpg" width = "300" height = "400"/>  
 </div>
 
 -- 📆The development history of Korean cinema can be traced back to the 1910s, when South Korea was still under Japanese colonial rule. During this period, Japanese films were widely popular in South Korea, but the Korean film industry did not develop.
